@@ -1,0 +1,20 @@
+
+.container-lg{
+    padding: 0 5% !important;
+    margin: 0 auto !important;
+}
+/* nav bar area *
+/* .nav-item a{
+    color: #dc3545 !important;
+} */
+.nav-item .btn{
+    color: #fff !important;
+    padding: 4px 10px !important;
+}
+.navbar-light .navbar-toggler {
+    color: rgba(220, 53, 70, 0.299) !important; 
+    border-color:rgba(220, 53, 70, 0.299) !important;
+}
+/* hero area  */
+
+/* about */
